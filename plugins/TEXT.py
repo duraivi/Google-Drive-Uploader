@@ -26,7 +26,7 @@ HELP = """   <b>AUTHORISE BOT</b>
 <b> Links Supported By Bot</b>
             * Direct Links 
             * Openload links [Max Speed 
-              50000000 GBps :(   ]
+              500000000000 GBps :(   ]
             * Dropbox links 
             *  Mega links
             
@@ -39,7 +39,7 @@ OL_DOWNLOAD = "Openload Link !! Downloading Started ... \n Openload Links Are Ex
 PROCESSING = "Processing Your Request ...!!"
 DOWN_TWO = True
 DOWNLOAD = "Downloading Started ..."
-DOWN_MEGA = "Downloading Started... \n  Mega Links are \n Extremely Slow :("
+DOWN_MEGA = "Downloading Started... \n  Mega Links are \n Extremely Fast :("
 DOWN_COMPLETE = "Downloading complete !!"
 NOT_AUTH = "You Are Not Authorised To Using this Bot \n\n Please Authorise Me Using /auth  \n\n @aryanvikash"
 REVOKE_FAIL = "You Are Already UnAuthorised \n. Please Use /auth To Authorise \n\n report At @aryanvikash "
@@ -55,8 +55,8 @@ AUTH_ERROR = "AUTH Error !! Please  Send Me a  valid Token or Re - Authorise Me 
 OPENLOAD = True
 DROPBOX = True
 MEGA = True
-
-
+MERROR = True
+TORRENT = True
 UPDATE = """ <b> Update  on  27.07.2019</b>
             * MEGA LINK added
             * Error Handling Improved
@@ -64,7 +64,7 @@ UPDATE = """ <b> Update  on  27.07.2019</b>
 <b> Links Supported By Bot</b>
             * Direct Links 
             * Openload links [Max Speed 
-              50000000 GBps :(   ]
+              500000000000 GBps :(   ]
             * Dropbox links 
             *  Mega links (only files)
             
