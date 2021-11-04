@@ -5,8 +5,8 @@ drive_folder_name = "GDriveUploaderBot"
 
 
 # Enter Your Mega email And Pass (Required)
-MEGA_EMAIL = "bearyan8@yandex.com"
-MEGA_PASSWORD = "bearyan8@yandex.com"
+MEGA_EMAIL = "duraismoorthy@gmail.com"
+MEGA_PASSWORD = "q1w2e3r4t5"
 
 
 START = " Hi {}  \nI am Drive Uploader Bot . Please Authorise To use me .By using /auth \n\n For more info /help \n\n Third-Party Website \n Support Added /update \n\n For Bot Updates  \n <a href ='https://t.me/aryan_bots'>Join Channel</a>\nPlease Report Bugs  @aryanvikash"
